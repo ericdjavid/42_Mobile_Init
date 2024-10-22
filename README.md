@@ -45,3 +45,6 @@ Welcome to the Swifty Companion App. This application is designed to provide a c
 - **TabTwoScreen**: Displays user skills and projects.
 - **User Store**: Manages user data state.
 - **Authentication Logic**: Handles OAuth2 flow and user data fetching.
+
+  
+<img width="373" alt="Capture d’écran 2024-10-22 à 17 17 47" src="https://github.com/user-attachments/assets/ff64b15e-315e-4d38-9db8-a645e8fcc88c">
